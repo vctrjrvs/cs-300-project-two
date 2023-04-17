@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.26.3)
+project(project_two)
+
+set(CMAKE_CXX_STANDARD 26.3)
+
+#finish adding file names
+add_executable(project_two main.cpp project_utils/Course.h project_utils/Course.cpp project_utils/Courses.h project_utils/Courses.cpp)                                                 )

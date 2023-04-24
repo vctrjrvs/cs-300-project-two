@@ -1,5 +1,5 @@
-#cs-300-projects
-##Victor Jarvis
+# cs-300-projects
+## Victor Jarvis
 
 C++ Projects for SNHU
 ---
